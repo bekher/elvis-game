@@ -1,6 +1,7 @@
 ## Elvis vs. Grannies
 
 Name: Greg Bekher
+
 Assignment Name: Programming Assignment 2, Elvis vs. Grannies
 
 A. Required Elements
